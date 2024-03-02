@@ -1,0 +1,351 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    top: 0px;
+}
+.avi{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(18, 77, 18);
+    color: white;
+}
+.avi li{
+    float: left;
+    margin-top: 30px;
+    margin-left: 0px;
+    font-size: 14px;
+    
+}
+.avi1 {
+    height: 150px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: hsl(60, 94%, 66%);
+}
+.avi1 i{
+    font-size: 30px;
+    margin-left: 30px;
+}
+.logo img {
+    height: 100px;
+    margin-left: 520px;
+    margin-top: -10px;
+
+}
+.main{
+    height: 600px;
+    width: 100%;
+}
+.sub:hover{
+    background: url("https://vaaradhifarms.com/cdn/shop/files/Ghee_website_Banner.png?v=1690913111&width=1400")no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+  
+}
+.sub{
+    background: url("https://vaaradhifarms.com/cdn/shop/files/Banner_50d1f809-f089-4b13-a8c9-85bfabc044b1.png?v=1687446546&width=1800")no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+
+}
+.nar{
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid rebeccapurple; */
+    font-size: 20PX;
+    margin-top: 20px ;
+}
+.nar1 {
+height: 280px;
+width: 280px;
+margin-top: 20px;
+float: left;
+margin-left: 30px;
+}
+.nar img{
+    height: 280px;
+    width: 280px;
+}
+.nar1 h3{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.nar1 p{
+    text-align: center;
+}
+.man{
+    height: 800px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 10px;
+}
+.tri{
+    height: 330px;
+    width: 250px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+ }
+ .tri img{
+    height: 250px;
+    width: 247px;
+
+ }
+ .tri h3,p{
+    text-align: center;
+ }
+.pragna{
+    height: 310px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 30px;
+ }
+ 
+ .praggy{
+    height: 130px;
+    width: 130px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 210px;
+    margin-top: 30px;
+    background-color: rgb(12, 79, 12);
+    border-radius: 1900px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+
+ }
+ .praggy img{
+    height: 100px;
+    width: 100px;
+
+ }
+ .siri{
+    height: 120px;
+    width: 260px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 120px;
+    margin-top: 10px;
+ }
+ .bun{
+    height: 290px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 10px;
+    text-align: center;
+    color: red;
+    background-color: rgb(255, 173, 114);
+
+ }
+ .bun a{
+    margin-left: 90px;
+    margin-top: 20px;
+    float: left;
+    text-decoration: none;
+ }
+ .bun hr{
+    /* border: 1px solid black; */
+    width: 100%;
+ }
+ .bun p{
+    color: black;
+ }
+ .vinay{
+    height: 550px;
+    width: 100%;
+    margin-top: 20px;
+    /* border: 2px solid gray; */
+
+ }
+ .tulasi{
+    height: 520px;
+    width: 520px;
+    /* border: 2px solid gray; */
+    float: left;
+    margin-left:80px;
+    margin-top: 20px;
+    border-radius: 22px;
+
+ }
+ .tulasi img{
+    height: 520px;
+    width: 520px;
+    border-radius: 20px;
+    font-size: 30px;
+
+ }
+ .tulasi i{
+    color: green;
+}
+.tulasi span{
+    color: green;
+}
+.tulasi h5{
+    font-size: 20px;
+
+}
+.tulasi button{
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    /* border-color: rgb(149, 149, 223); */
+}
+.tulasi span button{
+    color: green;
+    padding: 20px;
+    /* border-color: rgb(194, 253, 253); */
+}
+.loki{
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid rgb(239, 244, 239); */
+    border-radius: 10PX;
+}
+.loki i{
+    margin-left: 30px;
+    margin-top: 240px;
+}
+/* .sasi{
+    height: 50px;
+    width: 400px;
+    border: 2px solid rgb(208, 228, 208);
+    border-radius: 20PX;
+
+} */
+.sasi button{
+   width: 90%;
+   color: aliceblue;
+   background-color:green;
+}
+.kar{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 20px;
+}
+.car{
+    height: 230px;
+    width: 240px;
+    /* border: 2px solid red; */
+margin-top: 10px;
+float: left;
+margin-left: 10px;
+}
+.car img{
+    height: 228px;
+    width: 240px;
+
+}
+.adi{
+    height: 250px;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+.adi li{
+    float: left;
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.adi h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.adi h2{
+    text-align: center;
+    color: green;
+}
+.adi h1{
+    text-align: center;
+}
+.yam{
+    height: 550px;
+    width: 100%;
+    /* border: 2px solid red; */
+
+}
+.thir{
+    height: 500px;
+    width: 500px;
+    /* border: 2px solid gray; */
+    float: left;
+    margin-top: 20px;
+    margin-left: 70px;
+    background-color:goldenrod;
+}
+.thir img{
+    height: 500px;
+    width: 500px;
+}
+.sur{
+    height: 250px;
+    width: 100%;
+    /* border: 2px solid red; */
+ 
+}
+.sur h1{
+    font-size: 100px;
+    color: green;
+    text-align: center;
+    margin-top: 30px;
+}
+.sur p{
+    font-size: 40px;
+    color: green;
+    text-align: center;
+}
+.sath{
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: goldenrod;
+
+ }
+ .sag{
+    height: 350px;
+    width: 500px;
+    /* border: 2px solid red; */
+float: left;
+margin-left: 90px;
+margin-top: 30px;
+background-color: goldenrod;
+ }
+ .sag1{
+    height: 350px;
+    width: 500px;
+    /* border: 2px solid red; */
+    margin-left: 660px;
+    margin-top: 30px;
+    background-color: green;
+
+
+ }
+ .sag1 select{
+    font-size: 25px;
+    margin-top: 30px;
+ }
+ .nal{
+    height: 600px;
+    width: 100%;
+    border: 2px solid goldenrod;
+    background-color: goldenrod;
+ }
+ .ram{
+    height: 550px;
+    width: 350px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+
+
+ }
+

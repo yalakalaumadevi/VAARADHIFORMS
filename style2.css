@@ -1,0 +1,18 @@
+.main{
+    height: 600px;
+    width: 100%;
+}
+.sub:hover{
+    background: url("https://vaaradhifarms.com/cdn/shop/files/Ghee_website_Banner.png?v=1690913111&width=1400")no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+  
+}
+.sub{
+    background: url("https://vaaradhifarms.com/cdn/shop/files/Banner_50d1f809-f089-4b13-a8c9-85bfabc044b1.png?v=1687446546&width=1800")no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+
+}
